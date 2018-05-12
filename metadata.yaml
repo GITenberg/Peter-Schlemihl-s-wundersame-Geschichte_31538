@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1779
     wikipedia: http://en.wikipedia.org/wiki/Adelbert_von_Chamisso
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31538#Peter-Schlemihl-s-wundersame-Geschichte
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-03-07'
 gutenberg_type: Text
