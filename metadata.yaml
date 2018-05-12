@@ -1,0 +1,33 @@
+_repo: Peter-Schlemihl-s-wundersame-Geschichte_31538
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chamisso, Adelbert von
+    aliases:
+    - Chamisso, Adalbert von
+    - Von Chamisso, Adelbert
+    - Boncourt, Louis Charles Adélaide de Chamisso de
+    - Boncourt, Louis Charles Adelaide de Chamisso de
+    birthdate: 1781
+    deathdate: 1838
+    gutenberg_agent_id: '1779'
+    url: http://www.gutenberg.org/2009/agents/1779
+    wikipedia: http://en.wikipedia.org/wiki/Adelbert_von_Chamisso
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31538'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables'
+- !lcc 'PT'
+title: Peter Schlemihl's wundersame Geschichte
+url: http://www.gutenberg.org/ebooks/31538
